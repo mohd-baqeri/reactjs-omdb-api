@@ -1,2 +1,4 @@
-# reactjs-omdb-api
-Developing a ReactJS Movies app with using OMDb API
+# ReactJS-OMDb-API
+Developing a ReactJS Movies app using OMDb API
+
+After installing your React app, just copy the "src" folder to your project.
