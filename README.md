@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live preview: https://main--playful-pudding-7d4e41.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
